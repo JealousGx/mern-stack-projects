@@ -1,6 +1,6 @@
 # Tinder
 
-![TinderClone](https://jealous-tinder.vercel.app/)
+![TinderClone](https://raw.githubusercontent.com/JealousGx/mern-stack-projects/tinder-clone/live-demo.png)
 This branch contains both, front-end as well as backend server.
 
 ## Description
